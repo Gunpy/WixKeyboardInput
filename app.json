@@ -1,0 +1,12 @@
+{
+  "name": "inputKeyProject",
+  "displayName": "inputKeyProject",
+  "expo": {
+    "name": "inputKeyProject",
+    "slug": "inputKeyProject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
